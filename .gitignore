@@ -5,3 +5,7 @@ scratch_check_columns.py
 columns.txt
 market_list.md
 Laporan_UAS_WebGIS.md
+*.qgz
+*.docx
+~$*
+Laporan_UAS_WebGIS.md
