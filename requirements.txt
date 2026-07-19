@@ -2,10 +2,4 @@ streamlit
 folium
 streamlit-folium
 geopandas
-pandas
-numpy
 scikit-learn
-shapely
-branca
-fiona
-pyproj

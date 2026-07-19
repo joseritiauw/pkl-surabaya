@@ -1,0 +1,5 @@
+gdal-bin
+libgdal-dev
+libgeos-dev
+spatialite-bin
+libsqlite3-mod-spatialite
